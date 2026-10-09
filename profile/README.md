@@ -32,6 +32,14 @@ Hierarchical visual token selection with information merging before pruning.<br>
 [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Sun_Hi-Lo_Prune_Look_at_What_Youll_Lose_before_Pruning_with_CVPR_2026_paper.html) / [Repository](https://github.com/sealost/Hi-Lo_Prune)<br>
 The repository currently contains a README only; implementation not yet released.
 
+**TransNormal** / ICML 2026 (author project page)<br>
+Single-step diffusion for transparent-object surface-normal estimation.<br>
+[Paper](https://arxiv.org/abs/2602.00839) / [Project](https://longxiang-ai.github.io/TransNormal/) / [Code](https://github.com/longxiang-ai/TransNormal) / [Dataset](https://huggingface.co/datasets/Longxiang-ai/TransNormal-Synthetic)
+
+**Reaction Graph** / ICML 2025<br>
+Reaction-level chemical modeling with 3D structures.<br>
+[Paper](https://openreview.net/forum?id=V6fBMFduGS) / [Code](https://github.com/Shadow-Dream/Reaction-Graph) / [Dataset](https://huggingface.co/datasets/reactiongraph/ReactionGraph)
+
 **CDConv** / ICLR 2023<br>
 Joint geometry-sequence modeling for proteins with continuous-discrete convolution.<br>
 [Paper](https://openreview.net/forum?id=P5Z-Zl9XJ7) / [Code](https://github.com/hehefan/Continuous-Discrete-Convolution)
