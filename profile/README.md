@@ -9,17 +9,17 @@ Welcome to **ZJU-HeheFan**! We are a research group led by [Hehe Fan](https://he
 
 We are excited to exchange ideas with students, researchers, and collaborators across disciplines, including control, pharmacy, and materials science. Explore our papers, try our public resources, and get in touch through the relevant project or [Hehe Fan's homepage](https://hehefan.github.io/). We look forward to learning and building together!
 
-[Hehe Fan](https://hehefan.github.io/) / [Publications](https://hehefan.github.io/publications/) / [Earlier work](https://github.com/ZJU-HeheFan/work-before-2026-10) / [Project template](https://github.com/ZJU-HeheFan/project-template)
+[Hehe Fan](https://hehefan.github.io/) / [Publications](https://hehefan.github.io/publications/) / [Earlier work](https://github.com/ZJU-HeheFan/work-before-2026-oct)
 
 ## 🧭 Research directions
 
 <table width="100%">
 <tr><td colspan="4" align="center"><img src="https://raw.githubusercontent.com/ZJU-HeheFan/.github/main/profile/assets/research-directions-v2.png" alt="Four research directions, left to right: Computer Vision, LLMs and Agents, Embodied AI, AI for Science" width="1100"></td></tr>
 <tr>
-<td width="25%" align="center"><a href="https://github.com/ZJU-HeheFan/work-before-2026-10#computer-vision"><strong>Computer Vision</strong></a><br><sub>3D &amp; 4D perception</sub></td>
-<td width="25%" align="center"><a href="https://github.com/ZJU-HeheFan/work-before-2026-10#llms--agents"><strong>LLMs &amp; Agents</strong></a><br><sub>Reasoning &amp; collaboration</sub></td>
-<td width="25%" align="center"><a href="https://github.com/ZJU-HeheFan/work-before-2026-10#embodied-ai"><strong>Embodied AI</strong></a><br><sub>Perception &amp; action</sub></td>
-<td width="25%" align="center"><a href="https://github.com/ZJU-HeheFan/work-before-2026-10#ai-for-science"><strong>AI for Science</strong></a><br><sub>Proteins &amp; chemistry</sub></td>
+<td width="25%" align="center"><a href="https://github.com/ZJU-HeheFan/work-before-2026-oct#computer-vision"><strong>Computer Vision</strong></a><br><sub>3D &amp; 4D perception</sub></td>
+<td width="25%" align="center"><a href="https://github.com/ZJU-HeheFan/work-before-2026-oct#llms--agents"><strong>LLMs &amp; Agents</strong></a><br><sub>Reasoning &amp; collaboration</sub></td>
+<td width="25%" align="center"><a href="https://github.com/ZJU-HeheFan/work-before-2026-oct#embodied-ai"><strong>Embodied AI</strong></a><br><sub>Perception &amp; action</sub></td>
+<td width="25%" align="center"><a href="https://github.com/ZJU-HeheFan/work-before-2026-oct#ai-for-science"><strong>AI for Science</strong></a><br><sub>Proteins &amp; chemistry</sub></td>
 </tr>
 </table>
 
@@ -36,12 +36,12 @@ We are excited to exchange ideas with students, researchers, and collaborators a
 
 <sub>Selected from eligible projects with released implementations by GitHub stars, checked on 9 October 2026.</sub>
 
-[**Browse all earlier projects and resources**](https://github.com/ZJU-HeheFan/work-before-2026-10)
+[**Browse all earlier projects and resources**](https://github.com/ZJU-HeheFan/work-before-2026-oct)
 
 ## 🤝 Projects and collaboration
 
-Earlier projects remain in their original repositories and are linked from the [earlier-work index](https://github.com/ZJU-HeheFan/work-before-2026-10). New projects will have independent repositories in this organization. Group members maintain projects through their own GitHub accounts.
+Earlier projects remain in their original repositories and are linked from the [earlier-work index](https://github.com/ZJU-HeheFan/work-before-2026-oct). New projects will have independent repositories in this organization. Group members maintain projects through their own GitHub accounts.
 
-Use the [project template](https://github.com/ZJU-HeheFan/project-template) for new releases. For project questions, open an issue in the relevant repository. Follow this organization to keep track of our public work.
+Group members use an internal project template for new releases. For project questions, open an issue in the relevant repository. Follow this organization to keep track of our public work.
 
 <sub>Selected work is an initial public index, first-authored by group students or Hehe Fan; it is not a complete group publication list. Resource status checked on 9 October 2026.</sub>
