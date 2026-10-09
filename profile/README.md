@@ -2,19 +2,22 @@
   <img src="https://raw.githubusercontent.com/ZJU-HeheFan/.github/main/profile/assets/header.svg" alt="ZJU-HeheFan | Zhejiang University" width="880">
 </p>
 
-<p align="center">
-  Research group led by <a href="https://hehefan.github.io/">Hehe Fan</a> at Zhejiang University.<br>
-  <a href="https://hehefan.github.io/">Advisor</a> &nbsp; / &nbsp;
-  <a href="https://hehefan.github.io/publications/">Publications</a> &nbsp; / &nbsp;
-  <a href="https://github.com/ZJU-HeheFan/work-before-2026-10">Earlier work</a> &nbsp; / &nbsp;
-  <a href="https://github.com/ZJU-HeheFan/project-template">Project template</a>
-</p>
+## About us
 
-## Research areas
+Welcome to **ZJU-HeheFan**! We are a research group led by [Hehe Fan](https://hehefan.github.io/) at the College of Artificial Intelligence, Zhejiang University. We work on **Computer Vision, LLMs & Agents, Embodied AI, and AI for Science**, exploring how intelligent systems can understand the world, reason through complex problems, and support scientific discovery.
 
-| AI4Sci | LLM & Agents | Vision | WAM |
-| :---: | :---: | :---: | :---: |
-| [Protein modeling](https://github.com/ZJU-HeheFan/work-before-2026-10#ai4sci) | [Reasoning and research agents](https://github.com/ZJU-HeheFan/work-before-2026-10#llm--agents) | [Visual models and 4D perception](https://github.com/ZJU-HeheFan/work-before-2026-10#vision) | WAM |
+We are excited to exchange ideas with students, researchers, and collaborators across disciplines, including control, pharmacy, and materials science. Explore our papers, try our public resources, and get in touch through the relevant project or [Hehe Fan's homepage](https://hehefan.github.io/). We look forward to learning and building together!
+
+[Hehe Fan](https://hehefan.github.io/) / [Publications](https://hehefan.github.io/publications/) / [Earlier work](https://github.com/ZJU-HeheFan/work-before-2026-10) / [Project template](https://github.com/ZJU-HeheFan/project-template)
+
+## Research directions
+
+| Direction | Explore our work |
+| --- | --- |
+| [Computer Vision](https://github.com/ZJU-HeheFan/work-before-2026-10#computer-vision) | 3D and 4D perception, visual understanding, and efficient visual models. |
+| [LLMs & Agents](https://github.com/ZJU-HeheFan/work-before-2026-10#llms--agents) | Structured reasoning, autonomous research, and multi-agent collaboration. |
+| [Embodied AI](https://github.com/ZJU-HeheFan/work-before-2026-10#embodied-ai) | Planning and coordinating agents in interactive environments. |
+| [AI for Science](https://github.com/ZJU-HeheFan/work-before-2026-10#ai-for-science) | Protein modeling, chemical reactions, and molecular and materials discovery. |
 
 ## Selected work
 
