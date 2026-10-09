@@ -18,7 +18,7 @@ We are excited to exchange ideas with students, researchers, and collaborators a
 <tr>
 <td width="25%" align="center"><a href="https://github.com/ZJU-HeheFan/work-before-2026-10#computer-vision"><strong>Computer Vision</strong></a><br><sub>3D &amp; 4D perception</sub></td>
 <td width="25%" align="center"><a href="https://github.com/ZJU-HeheFan/work-before-2026-10#llms--agents"><strong>LLMs &amp; Agents</strong></a><br><sub>Reasoning &amp; collaboration</sub></td>
-<td width="25%" align="center"><a href="https://github.com/ZJU-HeheFan/work-before-2026-10#embodied-ai"><strong>Embodied AI</strong></a><br><sub>Planning &amp; interaction</sub></td>
+<td width="25%" align="center"><a href="https://github.com/ZJU-HeheFan/work-before-2026-10#embodied-ai"><strong>Embodied AI</strong></a><br><sub>Perception &amp; action</sub></td>
 <td width="25%" align="center"><a href="https://github.com/ZJU-HeheFan/work-before-2026-10#ai-for-science"><strong>AI for Science</strong></a><br><sub>Proteins &amp; chemistry</sub></td>
 </tr>
 </table>
