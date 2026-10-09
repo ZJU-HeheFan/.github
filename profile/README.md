@@ -13,16 +13,14 @@ We are excited to exchange ideas with students, researchers, and collaborators a
 
 ## Research directions
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/ZJU-HeheFan/work-before-2026-10#computer-vision"><img src="https://raw.githubusercontent.com/ZJU-HeheFan/.github/main/profile/assets/computer-vision.png" alt="Computer Vision: 3D and 4D perception, visual models" width="530"></a></td>
-<td width="50%"><a href="https://github.com/ZJU-HeheFan/work-before-2026-10#llms--agents"><img src="https://raw.githubusercontent.com/ZJU-HeheFan/.github/main/profile/assets/llms-agents.png" alt="LLMs and Agents: reasoning, research, collaboration" width="530"></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/ZJU-HeheFan/work-before-2026-10#embodied-ai"><img src="https://raw.githubusercontent.com/ZJU-HeheFan/.github/main/profile/assets/embodied-ai.png" alt="Embodied AI: planning, interaction, coordination" width="530"></a></td>
-<td width="50%"><a href="https://github.com/ZJU-HeheFan/work-before-2026-10#ai-for-science"><img src="https://raw.githubusercontent.com/ZJU-HeheFan/.github/main/profile/assets/ai-for-science.png" alt="AI for Science: proteins, chemistry, materials" width="530"></a></td>
-</tr>
-</table>
+<p align="center">
+<img src="https://raw.githubusercontent.com/ZJU-HeheFan/.github/main/profile/assets/research-directions-v2.png" alt="Computer vision, reasoning agents, embodied interaction, and scientific modeling" width="1100">
+</p>
+
+| [Computer Vision](https://github.com/ZJU-HeheFan/work-before-2026-10#computer-vision) | [LLMs & Agents](https://github.com/ZJU-HeheFan/work-before-2026-10#llms--agents) | [Embodied AI](https://github.com/ZJU-HeheFan/work-before-2026-10#embodied-ai) | [AI for Science](https://github.com/ZJU-HeheFan/work-before-2026-10#ai-for-science) |
+| :--- | :--- | :--- | :--- |
+| 3D & 4D perception<br>Visual understanding | Structured reasoning<br>Research & collaboration | Planning & interaction<br>Spatial intelligence | Protein modeling<br>Chemical discovery |
+
 
 ## Selected work
 
@@ -38,7 +36,7 @@ A benchmark for complex research requiring deep investigation, broad retrieval a
 **Hi-Lo Prune** &nbsp; [![CVPR 2026](https://img.shields.io/badge/CVPR-2026-315f80?style=flat-square)](https://openaccess.thecvf.com/content/CVPR2026/html/Sun_Hi-Lo_Prune_Look_at_What_Youll_Lose_before_Pruning_with_CVPR_2026_paper.html)<br>
 Hierarchical visual token selection with information merging before pruning.<br>
 [![Link Paper](https://img.shields.io/badge/Link-Paper-315f80?style=flat-square)](https://openaccess.thecvf.com/content/CVPR2026/html/Sun_Hi-Lo_Prune_Look_at_What_Youll_Lose_before_Pruning_with_CVPR_2026_paper.html) / [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/sealost/Hi-Lo_Prune) [![GitHub stars](https://img.shields.io/github/stars/sealost/Hi-Lo_Prune?style=flat-square&label=Star)](https://github.com/sealost/Hi-Lo_Prune)<br>
-The repository currently contains a README only; implementation not yet released.
+Project information is available; implementation not yet released.
 
 **TransNormal** &nbsp; [![ICML 2026](https://img.shields.io/badge/ICML-2026-315f80?style=flat-square)](https://arxiv.org/abs/2602.00839) (author project page)<br>
 Single-step diffusion for transparent-object surface-normal estimation.<br>
