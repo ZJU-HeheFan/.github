@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220" role="img" aria-labelledby="title desc">
+<title id="title">ZJU-HeheFan</title><desc id="desc">Research at Zhejiang University</desc>
+<rect width="1100" height="220" rx="14" fill="#f4f7fb"/>
+<rect width="8" height="220" fill="#164b80"/>
+<path d="M825 44h205M825 91h205M825 138h205M825 185h205" stroke="#dce5ee" stroke-width="1"/>
+<path d="M842 180V40M901 180V40M960 180V40M1019 180V40" stroke="#dce5ee" stroke-width="1"/>
+<path d="M842 138L901 91L960 138L1019 44M842 138L901 185L960 138L1019 185" fill="none" stroke="#164b80" stroke-width="2"/>
+<g fill="#164b80"><circle cx="842" cy="138" r="5"/><circle cx="901" cy="91" r="5"/><circle cx="960" cy="138" r="5"/><circle cx="1019" cy="44" r="5"/><circle cx="901" cy="185" r="5"/><circle cx="1019" cy="185" r="5"/></g>
+<text x="52" y="103" fill="#143c60" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="600">ZJU-HeheFan</text>
+<text x="55" y="151" fill="#536a7f" font-family="Segoe UI,Arial,sans-serif" font-size="21" letter-spacing="2">ZHEJIANG UNIVERSITY</text>
+</svg>
