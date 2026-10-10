@@ -43,8 +43,8 @@ We are excited to exchange ideas with students, researchers, and collaborators a
 
 ## 🤝 Projects and collaboration
 
-Earlier projects remain in their original repositories and are linked from the [earlier-work index](https://github.com/ZJU-HeheFan/work-before-2026-oct). New projects will have independent repositories in this organization. Group members maintain projects through their own GitHub accounts.
+Explore our public papers and research resources through the [earlier-work index](https://github.com/ZJU-HeheFan/work-before-2026-oct) and the project repositories linked above. Earlier projects remain in their original repositories; future public releases will be shared through dedicated repositories in this organization.
 
-Group members use an internal project template for new releases. For project questions, open an issue in the relevant repository. Follow this organization to keep track of our public work.
+We welcome questions, feedback, and research collaborations! For project-specific questions, open an issue in the relevant public repository. To discuss collaboration, get in touch through [Hehe Fan's homepage](https://hehefan.github.io/). Follow this organization for new papers, projects, and public research updates.
 
 <sub>This public index is maintained by the group. For the broader publication list, see Hehe Fan's publications page.</sub>
